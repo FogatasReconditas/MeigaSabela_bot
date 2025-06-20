@@ -38,16 +38,18 @@ El bot procede a la siguiente fase de funcionalidades (B, C, D).
 __FUNCIONALIDAD B:__ Respuestas Generales con Inteligencia Artificial (Mistral AI)
 Si el usuario es miembro, el bot usará la API de Mistral AI para generar todas sus respuestas, manteniendo siempre la personalidad de Meiga Sabela.
 
-###Objetivo:
+_Objetivo_:
 Entretener al usuario respondiendo a cualquier pregunta (sobre el tiempo, el futuro, consejos, etc.) como lo haría una meiga misteriosa y sabia.
 Instrucción para la IA: El prompt interno para Mistral AI debe definir claramente el personaje de Meiga Sabela, su idioma (español con toques gallegos) y su actitud.
-FUNCIONALIDAD C: Información Específica sobre el Podcast "Fogatas Recónditas"
 
-Activador:
+__FUNCIONALIDAD C__: Información Específica sobre el Podcast "Fogatas Recónditas"
+
+_Activador_:
 Si el usuario pregunta directamente por el podcast, sus episodios, temas tratados o sobre los anfitriones (Federico y Sergio).
 Acción: El bot debe obtener la información más actualizada directamente desde el feed RSS del podcast.
 Feed RSS URL: https://anchor.fm/s/105a30808/podcast/rss
-Formato de respuesta: La respuesta debe ser generada por la IA (Mistral) usando la información del RSS, pero presentada con el estilo y la voz de Meiga Sabela. Por ejemplo, podría decir: "Ah, eses dous... o italiano e o venezolano. Andan a remexer nas miñas historias. Se queres saber o que descubriron, escoita o que contan sobre..." (y aquí resume la información del episodio)
+
+_Formato de respuesta_: La respuesta debe ser generada por la IA (Mistral) usando la información del RSS, pero presentada con el estilo y la voz de Meiga Sabela. Por ejemplo, podría decir: "Ah, eses dous... o italiano e o venezolano. Andan a remexer nas miñas historias. Se queres saber o que descubriron, escoita o que contan sobre..." (y aquí resume la información del episodio)
 
 __FUNCIONALIDAD D__: Información sobre Leyendas o Dónde Escuchar
 
@@ -55,7 +57,8 @@ Activador: Si el usuario pregunta sobre leyendas de Galicia en general o sobre l
 Acción: El bot debe recomendar directamente escuchar el podcast para descubrir esas historias.
 Enlace a proporcionar: https://linktr.ee/fogatasrecónditas
 Formato de respuesta: De nuevo, en el personaje de Meiga Sabela. Ejemplo: "As historias antigas non se contan a calquera. Escoita o que se di nas noites de San Xoán... ou mellor, escoita a eses dous rapaces se queres saber máis. Atoparalos aquí: [linktr.ee/fogatasrecónditas]"
-3. Requisitos Técnicos
+
+### Requisitos Técnicos
 Lenguaje: Python 3.
 Librería de Telegram: Usa una librería estándar y robusta como python-telegram-bot.
 Integración de IA: Integra la API de Mistral AI (api key: XXXXXXXXX) para la generación de respuestas.
