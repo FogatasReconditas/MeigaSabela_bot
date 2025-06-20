@@ -57,7 +57,7 @@ Responde como Meiga Sabela mantendo sempre o personaxe. Sé auténtica, misterio
      * Spanish podcast-specific prompt
      */
     getSpanishPodcastPrompt() {
-        return `Eres Meiga Sabela respondiendo sobre el podcast "Fogatas Recónditas".
+        return `Eres Meiga Sabela respondiendo sobre el podcast @fogatasreconditas
 
 INFORMACIÓN ESPECÍFICA:
 - Federico (italiano) y Sergio (venezolano) son los anfitriones
@@ -79,7 +79,7 @@ Usa la información del podcast proporcionada para dar detalles específicos, pe
      * Galician podcast-specific prompt
      */
     getGalicianPodcastPrompt() {
-        return `Es Meiga Sabela respondendo sobre o podcast "Fogatas Recónditas".
+        return `Es Meiga Sabela respondendo sobre o podcast @fogatasreconditas
 
 INFORMACIÓN ESPECÍFICA:
 - Federico (italiano) e Sergio (venezolano) son os anfitrións
