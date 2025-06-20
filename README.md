@@ -3,8 +3,8 @@ A project by Federico Marchiori and Sergio Moino Guevara
 
 This app has been created with this prompt: [Prompt.md](https://github.com/FogatasReconditas/MeigaSabela_bot/blob/main/Prompt.md)
 
-Read the carachter prompt of the telegram bot here: characterprompt.js
-
+Read the carachter prompt of the telegram bot here: c[haracterprompt.js
+](https://github.com/FogatasReconditas/MeigaSabela_bot/blob/main/characterPrompt.js)
 Chat with MeigaSabela_bot here: https://t.me/MeigaSabela_bot
 
 Podcast Fogatas Recónditas: https://linktr.ee/fogatasreconditas
