@@ -1,3 +1,9 @@
+# MeigaSabela_bot - created with AI (replit agent)
+A project by Federico Marchiori and Sergio Moino Guevara
+
+Chat with MeigaSabela_bot here: https://t.me/MeigaSabela_bot
+Podcast Fogatas Recónditas: https://linktr.ee/fogatasreconditas
+
 # Meiga Sabela Bot
 
 A Telegram bot that embodies Meiga Sabela, a cranky but wise Galician storyteller from the "Fogatas Recónditas" folklore podcast.
