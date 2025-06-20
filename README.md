@@ -1,6 +1,9 @@
 # MeigaSabela_bot - created with AI (replit agent)
 A project by Federico Marchiori and Sergio Moino Guevara
 
+This app has been created with this prompt: Prompt.md
+
+Read the carachter prompt of the telegram bot here: characterprompt.js
 
 Chat with MeigaSabela_bot here: https://t.me/MeigaSabela_bot
 
