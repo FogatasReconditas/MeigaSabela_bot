@@ -1,12 +1,11 @@
-# MeigaSabela_bot - created with AI (replit agent)
-A project by Federico Marchiori and Sergio Moino Guevara
+# MeigaSabela_bot - creado con IA (agente de Replit)  
+Un proyecto de Federico Marchiori y Sergio Moino Guevara
 
-This app has been created with this prompt: [Prompt.md](https://github.com/FogatasReconditas/MeigaSabela_bot/blob/main/Prompt.md)
+Esta aplicación ha sido creada con este prompt: [Prompt.md](https://github.com/FogatasReconditas/MeigaSabela_bot/blob/main/Prompt.md)
 
-Read the carachter prompt of the telegram bot here: [characterprompt.js
-](https://github.com/FogatasReconditas/MeigaSabela_bot/blob/main/characterPrompt.js)
+Lee el prompt del personaje del bot de Telegram aquí: [characterprompt.js](https://github.com/FogatasReconditas/MeigaSabela_bot/blob/main/characterPrompt.js)
 
-Chat with MeigaSabela_bot here: https://t.me/MeigaSabela_bot
+Chatea con MeigaSabela_bot aquí: https://t.me/MeigaSabela_bot
 
 Podcast Fogatas Recónditas: https://linktr.ee/fogatasreconditas
 
