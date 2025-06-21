@@ -36,7 +36,7 @@ class TelegramService {
         ];
 
         const randomMessage = hostileMessages[Math.floor(Math.random() * hostileMessages.length)];
-        const fullMessage = `${randomMessage}\n\nÚnete al canal de Fogatas Recónditas o DÉIXAME EN PAZ`;
+        const fullMessage = `${randomMessage}\n\nÚnete al canal de @fogatasreconditas o DÉIXAME EN PAZ`;
 
         const keyboard = {
             inline_keyboard: [[

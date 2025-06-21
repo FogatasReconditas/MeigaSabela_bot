@@ -61,7 +61,7 @@ class MistralService {
                 characterPrompt.getSpanishPodcastPrompt();
 
             const podcastContext = `
-Información actual del podcast Fogatas Recónditas:
+Información actual del podcast @fogatasreconditas:
 ${JSON.stringify(podcastInfo, null, 2)}
             `;
 
